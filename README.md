@@ -4,6 +4,9 @@
 
 This repository contains a collection of projects and data analysis work that showcases my skills and experience.
 
+## Latest Projects
+- FRED Data Analysis: Showcasing capabilities of FRED api, with use of pandas, numpy and plotly for data visualization.
+
 ## Completed Projects
 
 - AlgoTrading Project: A project that implements algorithmic trading strategies for financial markets.

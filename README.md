@@ -6,6 +6,7 @@ This repository contains a collection of projects and data analysis work that sh
 
 ## Latest Projects
 - FRED Data Analysis: Showcasing capabilities of FRED api, with use of pandas, numpy and plotly for data visualization.
+- Data Cleaning World Layoff Data in mySQL. (DataCleaninginMySql and layoffs.csv) Removing duplicates, Standardizing of dataset.
 
 ## Completed Projects
 

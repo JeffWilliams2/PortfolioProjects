@@ -8,21 +8,19 @@ This repository contains a collection of projects.
 -  Stock Market Data Analysis with Python, SQL, Apache Kafka, AWS Glue, AWS Athena
 - FRED (Federal Reserve Economic Data) Analysis: Showcasing capabilities of FRED api, with use of pandas, numpy and plotly for data visualization.
 - Data Cleaning World Layoff Data in mySQL: Removing duplicates, Standardizing of dataset.
-- BasicStockComparison: Showing basic yfinance capabilities/comparing META, TSLA and more to market benchmark.
+- BasicStockComparison: Showing basic yfinance capabilities/comparing META, TSLA and more to market benchmark. Numpy, Pandas, matplotlib, yfinance
 
 ## Completed Projects
 
-- AlgoTrading Project: A project that implements basic trading ideas.
+- Stock Trading Analysis Project: A project that implements basic trading ideas. Matplotlib, pandas, yfinance.
 
-- Amazon Web Scraper: A web scraping script to extract product data from Amazon.
+- Amazon Web Scraper: A web scraping script to extract product data from Amazon. BeautifulSoup.
 
 - Bike Sales Excel Dashboard: A dashboard built in Excel to analyze bike sales data and provide insights.
 
-- COVID Project Script: A script that analyzes COVID-19 data and generates visualizations to understand the spread of the virus.
+- Data Cleaning Project: Cleaning and preprocessing data of a Hosuing dataset. SQL
 
-- Data Cleaning Project: A project that involves cleaning and preprocessing data of a Hosuing dataset.
-
-- Real Estate Proforma: A full proforma showcasing analysis of real estate investment property and generating projections for future performance.
+- Real Estate Proforma: A full proforma showcasing analysis of real estate investment property and generating projections for future performance. Excel
 
 ## Tools & Technologies
 

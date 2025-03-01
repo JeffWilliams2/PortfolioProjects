@@ -18,7 +18,7 @@ This repository contains a collection of projects.
 
 - Bike Sales Excel Dashboard: A dashboard built in Excel to analyze bike sales data and provide insights.
 
-- Data Cleaning Project: Cleaning and preprocessing data of a Hosuing dataset. SQL
+- Data Cleaning Project: Cleaning and preprocessing data of a Housing dataset. SQL
 
 - Real Estate Proforma: A full proforma showcasing analysis of real estate investment property and generating projections for future performance. Excel
 

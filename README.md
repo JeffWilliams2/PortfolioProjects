@@ -1,5 +1,26 @@
 # Portfolio Projects
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshot-banking-pipeline.png" alt="Banking CDC Pipeline" width="45%">
+  <img src="assets/netflix-dbt-snowflake-pipeline.png" alt="Netflix dbt Snowflake Pipeline" width="45%">
+</p>
+<p align="center">
+  <img src="assets/emr-spark-basic-setup.png" alt="AWS EMR Spark Setup" width="45%">
+  <img src="assets/travel-recommendations-aws.png" alt="Travel Recommendations AWS" width="45%">
+</p>
+<p align="center">
+  <img src="assets/stock-sector-streamlit.png" alt="Stock Sector Streamlit App" width="45%">
+  <img src="assets/airbnb-trend-tableau.png" alt="Airbnb Trend Tableau" width="45%">
+</p>
+<p align="center">
+  <img src="assets/s&p500-comparison-streamlit.png" alt="S&P 500 Comparison App" width="45%">
+  <img src="assets/nucleotide-counting-app-streamlit.png" alt="DNA Nucleotide Counting App" width="45%">
+</p>
+
+---
+
 ## Welcome to my portfolio!
 
 This repository contains a collection of projects. 
@@ -31,4 +52,17 @@ This repository contains a collection of projects.
 - Data Cleaning Project: Cleaning and preprocessing data of a Housing dataset. SQL
 
 - Real Estate Proforma: A full proforma showcasing analysis of real estate investment property and generating projections for future performance. Excel
+
+
+
+links to documentation: 
+- https://github.com/JeffWilliams2/fed_speech_recognition
+- https://github.com/JeffWilliams2/medallion-elt-pipeline
+- https://github.com/JeffWilliams2/etl_airflow_dag
+- https://github.com/JeffWilliams2/netflix-dbt-snowflake
+- https://github.com/JeffWilliams2/aws-emr-spark-demo
+- https://github.com/JeffWilliams2/film-elt-project-dbt
+- https://github.com/JeffWilliams2/travel-destination-generator
+- https://github.com/JeffWilliams2/crud-app-backend
+- https://github.com/JeffWilliams2/NYC_Airbnb
 
